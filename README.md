@@ -14,6 +14,8 @@ It was tested in browsers:
 - IE 11.0.9
 - Firefox 54.0.1
 
+References: https://www.youtube.com/watch?v=8abt7kqHWoA
+
 
 
 
